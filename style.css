@@ -1,0 +1,18 @@
+html {
+	background-color: rgb(241, 167, 231); /* a very light pink background for the entire HTML document */
+	font-family: Arial, sans-serif; /* a clean, sans-serif font for better readability */
+}
+body {
+	background: linear-gradient(pink, purple); /* gradient background from pink to purple */
+	margin: 20px; /* added margin around the body for better spacing */
+}
+
+h1 {
+	color: black; /* black color for the heading text */
+	text-align: center; /* center the h1 text */
+}
+
+p {
+	color: rgb(59, 25, 59); /* A slightly lighter violet for the paragraph text */
+	line-height: 1.6; /* increased the space between lines for readability */
+}
